@@ -1,6 +1,6 @@
 <?php 
 
 echo "Sombrero Sam";
-echo "Que passa hermano";
+echo "Que passa muchacho";
 
 ?>
